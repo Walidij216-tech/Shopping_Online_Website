@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Started</title>
+</head>
+<body>
+    <header>
+        <h1>Molka Delivery</h1>
+        <nav>
+        <ul>
+            <li><a href="welcome.html">Home</a></li>
+        </ul>
+    </nav>
+    </header>
+
+    <main>
+        <section class="getstarted">
+            <h2>Who are you?</h2>
+            <ul>
+                <li><a href="fournisseur.html" class="btn-fournisseur">Provider</a></li>
+                <li><a href="client.html" class="btn-client">Client</a></li>
+                
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Service de Livraison</p>
+    </footer>
+    <style>
+        body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f5f5f5;
+    }
+         header {
+        background-color: #767394;
+        color: #fff;
+        padding: 10px;
+        text-align: center;
+    }
+    nav ul li {
+        display: inline;
+        margin: 0 10px;
+    }
+    nav ul li a {
+        text-decoration: white;
+        color:white;
+    }
+        
+
+.getstarted h2 {
+    text-align: center;
+
+}
+
+.getstarted form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.getstarted label,
+.getstarted input {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.getstarted input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.btn-fournisseur {
+        display: block;
+        margin: 20px auto 0;
+        padding: 10px 20px;
+        background-color: #8f2c2c;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+        text-align: center;
+        font-size: 16px;
+        width: fit-content;
+    }
+    .btn-client {
+        display: block;
+        margin: 20px auto 0;
+        padding: 10px 20px;
+        background-color: #8f2c2c;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+        text-align: center;
+        font-size: 16px;
+        width: fit-content;
+    }
+    </style>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const header = document.querySelector('header');
+    header.addEventListener('mouseover', function() {
+        header.style.backgroundColor = '#555';
+    });
+    header.addEventListener('mouseout', function() {
+        header.style.backgroundColor = '#767394';
+    });
+    const contactSection = document.querySelector('.getstarted');
+    contactSection.style.backgroundColor = 'white';
+});
+    </script>
+</body>
+
+</html>

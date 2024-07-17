@@ -1,0 +1,11 @@
+2023-07-03 11:20:49: Init DataDir at: C:\laragon\data\mysql-8
+2023-07-21 00:08:19: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: 
+2023-08-06 14:06:06: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: 
+2023-10-04 11:57:28: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: mysqladmin: connect to server at 'localhost' failed
+error: 'Can't connect to MySQL server on 'localhost:3306' (10061)'
+Check that mysqld is running on localhost and that the port is 3306.
+You can check this by doing 'telnet localhost 3306'
+

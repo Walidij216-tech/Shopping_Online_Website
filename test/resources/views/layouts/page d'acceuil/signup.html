@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formular for a new provider</title>
+</head>
+<body>
+    <header>
+        <h1>Molka Delivery</h1>
+        <nav>
+            <ul>
+                <li><a href="welcome.html">Home</a></li>
+                <li><a href="#">Inscription</a></li> <!-- Lien vers la nouvelle page de contact -->
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="inscription">
+            <h2>Formular for a new provider</h2>
+            <form action="liste-fournisseur.php" method="post">
+
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" required placeholder="Name">
+                <br>
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" required placeholder="Email">
+                <br>
+            <label for="email">Password</label>
+                <input type="email" id="email" name="email" required placeholder="password">
+                <br>
+                <label for="sujet">Login</label>
+                <input type="sujet" id="sujet" name="sujet" required placeholder="login">
+                <br>
+                <label for="message">Adresse</label>
+                <input type="message" id="message" name="message" required placeholder="adresse">
+                <br>
+                <label for="message">Tel</label>
+                <input type="message" id="message" name="message" required placeholder="tel">
+                <br>
+                
+                <a href="#" class="btn-connexion">Connexion</a>
+            </form>
+            <p>Si vous avez déjà un compte, <a href="fournisseur.html">connectez-vous ici</a>.</p>
+    <p><a href="forgot_password.html">Mot de passe oublié ?</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Service de Livraison</p>
+    </footer>
+    <style>
+        body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f5f5f5;
+    }
+         header {
+        background-color: #767394;
+        color: #fff;
+        padding: 10px;
+        text-align: center;
+    }
+    nav ul li {
+        display: inline;
+        margin: 0 10px;
+    }
+    nav ul li a {
+        text-decoration: none;
+        color: #fff;
+    }
+        .inscription {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-top: 20px; /* Espace entre les catégories et le formulaire */
+}
+
+.inscription h2,p {
+    text-align: center;
+
+}
+
+.inscription form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.inscription label,
+.inscription input {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.inscription input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.btn-connexion{
+        display: block;
+        margin: 20px auto 0;
+        padding: 10px 20px;
+        background-color: #8f2c2c;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+        text-align: center;
+        font-size: 16px;
+        width: fit-content;
+    }
+    </style>
+
+    <script>
+         document.addEventListener('DOMContentLoaded'), function() {
+    // Sélectionnez les éléments avec lesquels vous souhaitez interagir
+
+    // Exemple : Changer la couleur de fond du header au survol
+    const header = document.querySelector('header')};
+    header.addEventListener('mouseover', function() {
+        header.style.backgroundColor = '#555';
+    });
+    header.addEventListener('mouseout', function() {
+        header.style.backgroundColor = '#767394';
+    });
+    
+    </script>
+</body>
+
+</html>

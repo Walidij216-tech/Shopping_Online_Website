@@ -1,0 +1,12 @@
+[05-Jul-2023 14:48:11 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in C:\laragon\www\test\tests\Feature\ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\test\tests\Feature\ExampleTest.php on line 8
+[05-Jul-2023 14:48:14 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in C:\laragon\www\test\tests\Feature\ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\test\tests\Feature\ExampleTest.php on line 8
+[05-Jul-2023 14:48:34 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in C:\laragon\www\test\tests\Feature\ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\test\tests\Feature\ExampleTest.php on line 8

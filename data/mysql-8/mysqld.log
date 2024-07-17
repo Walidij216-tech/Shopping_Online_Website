@@ -1,0 +1,473 @@
+2023-07-03T09:22:34.367899Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-07-03T09:22:34.367998Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-07-03T09:22:34.402479Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 10976
+2023-07-03T09:22:34.702058Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-07-03T09:22:45.061439Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-07-03T09:22:48.470505Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2023-07-03T09:22:48.717187Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-07-03T09:22:48.718296Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-07-03T09:22:50.151039Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-07-03T09:22:50.151292Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-07-05T14:34:08.290927Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-07-05T14:34:08.291089Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-07-05T14:34:08.291182Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 3900
+2023-07-05T14:34:09.328221Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-07-05T14:34:09.330113Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-05T14:34:09.331024Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-05T14:34:09.367435Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-07-05T14:34:09.381103Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-07-05T14:34:09.381888Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-07-05T14:34:09.470191Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-07-14T08:28:25.400118Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-07-14T08:28:25.556600Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-07-14T08:28:25.556684Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 17240
+2023-07-14T08:28:29.528540Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-07-14T08:28:29.643129Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-14T08:28:29.644351Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-14T08:28:29.675627Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-07-14T08:28:29.705642Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-07-14T08:28:29.706740Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-07-14T08:28:29.804781Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-07-14T09:36:25.325099Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-07-14T09:36:25.325293Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-07-14T09:36:25.325387Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 11960
+2023-07-14T09:36:28.162937Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-07-14T09:36:28.600258Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-14T09:36:28.750200Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-14T09:36:28.997840Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-07-14T09:36:29.183694Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-07-14T09:36:29.271971Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-07-14T09:36:30.081235Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-07-15T10:56:13.426773Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-07-15T10:56:13.426925Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-07-15T10:56:13.427019Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 12348
+2023-07-15T10:56:13.668434Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-07-15T10:56:13.671351Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-15T10:56:13.673966Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-15T10:56:13.675461Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-07-15T10:56:13.677419Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-07-15T10:56:13.678655Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-07-15T10:56:13.688874Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-07-15T10:57:28.828851Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-07-15T10:57:28.828986Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-07-15T10:57:28.829069Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 15712
+2023-07-15T10:57:28.962516Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-07-15T10:57:28.964808Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-15T10:57:28.965962Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-15T10:57:28.967160Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-07-15T10:57:28.968485Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-07-15T10:57:28.969277Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-07-15T10:57:28.977248Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-07-15T10:58:19.310228Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-07-15T10:58:19.310392Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-07-15T10:58:19.310480Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 16596
+2023-07-15T10:58:19.708674Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-07-15T10:58:19.714388Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-15T10:58:19.715831Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-15T10:58:19.717561Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-07-15T10:58:19.719720Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-07-15T10:58:19.723857Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-07-15T10:58:19.736521Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-07-17T08:41:55.418720Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-07-17T08:41:55.541968Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-07-17T08:41:55.542068Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 8628
+2023-07-17T08:41:57.491451Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-07-17T08:42:11.943790Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-07-17T08:42:15.492492Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-07-17T08:42:15.586356Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-07-17T08:42:16.065762Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2023-07-17T08:42:16.487565Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-07-17T08:42:16.488726Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-07-17T08:42:16.891175Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-07-17T08:42:16.891547Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-07-17T09:16:59.260839Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-07-17T09:16:59.260975Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-07-17T09:16:59.261051Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 3092
+2023-07-17T09:16:59.406417Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-07-17T09:16:59.408492Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-17T09:16:59.409788Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-17T09:16:59.411018Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-07-17T09:16:59.426350Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-07-17T09:16:59.427559Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-07-17T09:16:59.905781Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-07-17T09:31:34.454757Z 12 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.30).
+2023-07-17T09:31:34.503922Z 0 [System] [MY-013105] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Normal shutdown.
+2023-07-17T09:31:35.845350Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-07-17T09:31:49.494765Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-07-17T09:31:49.494882Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-07-17T09:31:49.494944Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 13940
+2023-07-17T09:31:49.632841Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-07-17T09:32:14.440677Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-07-17T09:32:17.337080Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2023-07-17T09:32:17.542788Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-07-17T09:32:17.543720Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-07-17T09:32:17.751329Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-07-17T09:32:17.751569Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-07-17T09:51:11.278525Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-07-17T09:51:11.278701Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-07-17T09:51:11.278794Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 9404
+2023-07-17T09:51:11.667681Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-07-17T09:51:11.670280Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-17T09:51:11.671211Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-17T09:51:11.672134Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-07-17T09:51:11.706062Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-07-17T09:51:11.707267Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-07-17T09:51:12.117048Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-07-17T21:59:34.809902Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-07-17T21:59:34.910870Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-07-17T21:59:34.910968Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 6692
+2023-07-17T21:59:39.082776Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-07-17T21:59:54.680100Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-07-17T22:00:00.365068Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-07-17T22:00:00.422666Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-07-17T22:00:01.269008Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2023-07-17T22:00:02.146248Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-07-17T22:00:02.157110Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-07-17T22:00:02.750850Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-07-17T22:00:02.750934Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-07-20T08:08:45.304647Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-07-20T08:08:45.331924Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-07-20T08:08:45.332001Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 7024
+2023-07-20T08:08:48.144453Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-07-20T08:08:48.155497Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-20T08:08:48.156417Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-20T08:08:48.182147Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-07-20T08:08:48.251310Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-07-20T08:08:48.252096Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-07-20T08:08:48.432175Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-07-20T22:08:13.322320Z 67 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.30).
+2023-07-20T22:08:13.571482Z 0 [System] [MY-013105] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Normal shutdown.
+2023-07-20T22:08:18.998417Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-07-20T22:09:01.442569Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-07-20T22:09:01.576565Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-07-20T22:09:01.576655Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 3560
+2023-07-20T22:09:07.780697Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-07-20T22:09:31.708362Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-07-20T22:09:34.613144Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2023-07-20T22:09:40.302192Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-07-20T22:09:40.336133Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-07-20T22:09:42.773704Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-07-20T22:09:42.774150Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-07-21T07:55:13.072311Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-07-21T07:55:13.072486Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-07-21T07:55:13.072570Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 3160
+2023-07-21T07:55:13.585920Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-07-21T07:55:13.587830Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-21T07:55:13.589357Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-07-21T07:55:13.590300Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-07-21T07:55:13.592224Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-07-21T07:55:13.593005Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-07-21T07:55:13.601825Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-08-04T08:55:59.624171Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-08-04T08:55:59.624873Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-08-04T08:55:59.624942Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 7840
+2023-08-04T08:56:03.673403Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-08-04T08:56:03.724180Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-08-04T08:56:03.760397Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-08-04T08:56:03.808181Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-08-04T08:56:03.815029Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-08-04T08:56:03.816127Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-08-04T08:56:03.994584Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-08-06T12:05:58.174786Z 197 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.30).
+2023-08-06T12:06:00.107509Z 0 [System] [MY-013105] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Normal shutdown.
+2023-08-06T12:07:08.698045Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-08-29T17:39:05.402905Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-08-29T17:39:05.882436Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-08-29T17:39:05.882857Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 10068
+2023-08-29T17:39:12.942540Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-08-29T17:39:32.962912Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-08-29T17:39:39.662205Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2023-08-29T17:39:41.284258Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-08-29T17:39:41.285881Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-08-29T17:39:42.854270Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-08-29T17:39:42.854623Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-09-09T17:18:21.255377Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-09-09T17:18:21.534128Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-09-09T17:18:21.558471Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 8772
+2023-09-09T17:18:32.695722Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-09-09T17:19:05.657016Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-09-09T17:19:13.563131Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-09-09T17:19:13.632427Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-09-09T17:19:14.984335Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2023-09-09T17:19:17.195194Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-09-09T17:19:17.196060Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-09-09T17:19:20.187565Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-09-09T17:19:20.187949Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-09-30T13:01:35.544513Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-09-30T13:01:35.723462Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-09-30T13:01:35.780853Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 1996
+2023-09-30T13:01:44.640300Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-09-30T13:02:22.156395Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-09-30T13:02:33.446775Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-09-30T13:02:33.740726Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-09-30T13:02:34.950965Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2023-09-30T13:02:35.883317Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-09-30T13:02:35.884266Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-09-30T13:02:36.498178Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-09-30T13:02:36.498478Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-10-04T09:57:17.769245Z 11 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.30).
+2023-10-04T09:57:18.261996Z 0 [System] [MY-013105] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Normal shutdown.
+2023-10-04T09:57:20.943430Z 0 [Warning] [MY-010909] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Forcing close of thread 8  user: 'root'.
+2023-10-04T09:57:28.032007Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-10-04T10:07:24.892463Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-10-04T10:07:24.892616Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-10-04T10:07:24.892697Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 1156
+2023-10-04T10:07:29.611305Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-10-04T10:07:34.707559Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:07:34.708475Z 0 [ERROR] [MY-012639] [InnoDB] Write to file .\#innodb_redo\#ib_redo17_tmp failed at offset 1048576, 1048576 bytes should have been written, only 0 were written. Operating system error number 0. Check that your OS and file system support files of this size. Check also that the disk is not full or a disk quota exceeded.
+2023-10-04T10:07:34.711103Z 0 [ERROR] [MY-012640] [InnoDB] Error number 0 means 'No error'
+2023-10-04T10:07:34.711823Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo17_tmp to 3 MB (Failed to set size)
+2023-10-04T10:07:46.651802Z 1 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:07:46.653329Z 1 [ERROR] [MY-012267] [InnoDB] Could not set the file size of '.\ibtmp1'. Probably out of disk space
+2023-10-04T10:07:46.654397Z 1 [ERROR] [MY-012926] [InnoDB] Unable to create the shared innodb_temporary.
+2023-10-04T10:07:46.769374Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2023-10-04T10:07:46.906277Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-10-04T10:07:46.956858Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-10-04T10:07:46.957931Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-10-04T10:07:47.299220Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-10-04T10:11:07.376630Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-10-04T10:11:07.376783Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-10-04T10:11:07.376865Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 8324
+2023-10-04T10:11:07.494659Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-10-04T10:11:17.546900Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:17.547951Z 0 [ERROR] [MY-012639] [InnoDB] Write to file .\#innodb_redo\#ib_redo40_tmp failed at offset 2097152, 1048576 bytes should have been written, only 0 were written. Operating system error number 0. Check that your OS and file system support files of this size. Check also that the disk is not full or a disk quota exceeded.
+2023-10-04T10:11:17.551012Z 0 [ERROR] [MY-012640] [InnoDB] Error number 0 means 'No error'
+2023-10-04T10:11:17.551745Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:17.654593Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:17.655471Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:17.693249Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:17.694134Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:17.759471Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:17.760369Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:17.856752Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:17.857632Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:17.894336Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:17.895226Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:17.937274Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:17.938182Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:18.292505Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:18.293711Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:18.879617Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:18.880640Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:20.247470Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:20.248349Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:20.563091Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:20.563981Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:22.240335Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:22.241376Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:22.314511Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:22.315392Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:26.218263Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:26.219322Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:26.256723Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:26.258533Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:26.420066Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:26.421100Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:26.530206Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:26.531342Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:26.578674Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:26.579579Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:26.660686Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:26.661578Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:26.695564Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:26.696459Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:26.731898Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:26.733023Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:26.879976Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:26.880865Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:26.927820Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:26.928706Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:26.964754Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:26.965734Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:27.001838Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:27.002731Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:27.039086Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:27.040144Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:27.128082Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:27.128974Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:27.281913Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:27.282793Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:27.847599Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:27.848485Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:27.977097Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:27.978212Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:28.643322Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:28.644212Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:29.754073Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:29.754970Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:31.007248Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:31.008137Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:31.062253Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:31.063143Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:31.091989Z 1 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:31.093300Z 1 [ERROR] [MY-012267] [InnoDB] Could not set the file size of '.\ibtmp1'. Probably out of disk space
+2023-10-04T10:11:31.094348Z 1 [ERROR] [MY-012926] [InnoDB] Unable to create the shared innodb_temporary.
+2023-10-04T10:11:31.347148Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2023-10-04T10:11:31.501280Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T10:11:31.502262Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T10:11:31.861590Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-10-04T10:11:32.633739Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-10-04T10:11:32.634757Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-10-04T10:11:32.738579Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-10-04T16:22:53.583980Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-10-04T16:22:54.084963Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-10-04T16:22:54.231580Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 11144
+2023-10-04T16:23:09.646874Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-10-04T16:23:22.865589Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:22.867032Z 0 [ERROR] [MY-012639] [InnoDB] Write to file .\#innodb_redo\#ib_redo40_tmp failed at offset 0, 1048576 bytes should have been written, only 0 were written. Operating system error number 0. Check that your OS and file system support files of this size. Check also that the disk is not full or a disk quota exceeded.
+2023-10-04T16:23:22.870051Z 0 [ERROR] [MY-012640] [InnoDB] Error number 0 means 'No error'
+2023-10-04T16:23:22.870888Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:22.883729Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:22.884659Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:22.897745Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:22.899359Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:22.912841Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:22.913769Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:22.926990Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:22.927981Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:22.940996Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:22.942145Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:22.955066Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:22.955966Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:22.969124Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:22.970014Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:22.983058Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:22.983960Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:22.997189Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:22.998077Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.011119Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.012015Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.025804Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.026721Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.039921Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.040810Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.053792Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.054757Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.066964Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.067849Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.080016Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.080909Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.094423Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.095307Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.108480Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.109360Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.122246Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.123134Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.136352Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.137241Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.149342Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.150240Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.163224Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.164123Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.178170Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.179083Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.193150Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.194608Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.210159Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.211082Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.225140Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.226053Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.240139Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.241072Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.254233Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.255568Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.269133Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.270043Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.284122Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.285035Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.299454Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.300386Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.314231Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.315610Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.330151Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.331078Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.346147Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.347610Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.361371Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.362627Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.377167Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.378778Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.394050Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.394962Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.408088Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.409013Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.423248Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.424662Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.439009Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.440884Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.455292Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.456573Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.469024Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.469938Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.483976Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.484887Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.498059Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.499464Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.513964Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.514881Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.529199Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.530354Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.544954Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.545866Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.559946Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.560873Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.575002Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.576123Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.590920Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.591847Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.606148Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.607607Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.623137Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.624401Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.639343Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.641040Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.655121Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.656066Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.670876Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.671793Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.686867Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.687777Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.701884Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.702796Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.717254Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.718167Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.732247Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.733718Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.748068Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.749467Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.763849Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.764759Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.779813Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.781031Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.786586Z 1 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.787487Z 1 [ERROR] [MY-012267] [InnoDB] Could not set the file size of '.\ibtmp1'. Probably out of disk space
+2023-10-04T16:23:23.788491Z 1 [ERROR] [MY-012926] [InnoDB] Unable to create the shared innodb_temporary.
+2023-10-04T16:23:23.795790Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.797013Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.811908Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.812827Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.818236Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2023-10-04T16:23:23.820392Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.821548Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.825092Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.826556Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.830970Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2023-10-04T16:23:23.832396Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo40_tmp to 3 MB (Failed to set size)
+2023-10-04T16:23:23.963742Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-10-04T16:23:23.992218Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-10-04T16:23:23.993283Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-10-04T16:23:24.096919Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-10-08T20:23:46.433419Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-10-08T20:23:46.512445Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-10-08T20:23:46.512525Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 14556
+2023-10-08T20:23:50.906337Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-10-08T20:24:07.414349Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-10-08T20:24:23.627248Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2023-10-08T20:24:28.282799Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-10-08T20:24:28.294752Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-10-08T20:24:31.932271Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-10-08T20:24:31.932681Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-07-17T20:28:27.965409Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-07-17T20:28:27.967170Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-07-17T20:28:27.967254Z 0 [System] [MY-010116] [Server] C:\Users\Zaïneb\Desktop\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 5596
+2024-07-17T20:28:28.102261Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
